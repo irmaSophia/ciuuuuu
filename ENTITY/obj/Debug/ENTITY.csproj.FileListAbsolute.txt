@@ -1,0 +1,6 @@
+C:\Users\sophi\source\repos\GestionCiudades\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\sophi\source\repos\GestionCiudades\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\sophi\source\repos\GestionCiudades\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\sophi\source\repos\GestionCiudades\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\sophi\source\repos\GestionCiudades\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\sophi\source\repos\GestionCiudades\ENTITY\obj\Debug\ENTITY.pdb
